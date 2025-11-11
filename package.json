@@ -10,7 +10,7 @@
   "keywords": [
     "autenticación de usuarios"
   ],
-  "author": "Luisa Castaño",
+  "author": "Fabian Noguera",
   "license": "ISC",
   "description": "Prueba técnica: Autenticación de usuarios",
   "dependencies": {
